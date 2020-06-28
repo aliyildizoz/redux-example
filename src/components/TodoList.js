@@ -7,13 +7,13 @@ class TodoList extends Component {
   render() {
     return (
       <div>
-        {this.props.todos.map((todo, i) => {
+        {this.props.todos.map((item, i) => {
           return (
-            <Alert color="primary">
-              {todo}
+            <Alert key={i} color="primary">
+              {item.todo}
               <Button
                 type="button"
-                onClick={() => this.props.actions.remove(todo)}
+                onClick={() => this.props.actions.remove(item.todo)}
                 className="close text-danger btn-alert-primary"
                 aria-label="Close"
               >

@@ -1,68 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Redux-Example
 
-In the project directory, you can run:
+> **Türkçe**
 
-### `npm start`
+ - Bu örnek aşağıdaki yazılarda kullanılmıştır 
+	 - [React’ta redux nasıl ve neden kullanılır ?](https://medium.com/software-development-turkey/reactta-redux-nas%C4%B1l-ve-neden-kullan%C4%B1l%C4%B1r-f8e14ff1fdbc).
+	 - [React’ta redux ile middleware kullanımı ve redux-thunk.](https://medium.com/software-development-turkey/reactta-redux-ile-middleware-kullan%C4%B1m%C4%B1-ve-redux-thunk-d46445f7b9c6)
+- CodeSandbox ta incelemek için [tıklayınız](https://codesandbox.io/s/cocky-wood-nkx2e?from-embed) .
+> **English**
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+ - This example is used in the following articles.
+	 - [React’ta redux nasıl ve neden kullanılır ?](https://medium.com/software-development-turkey/reactta-redux-nas%C4%B1l-ve-neden-kullan%C4%B1l%C4%B1r-f8e14ff1fdbc).
+	 - [React’ta redux ile middleware kullanımı ve redux-thunk.](https://medium.com/software-development-turkey/reactta-redux-ile-middleware-kullan%C4%B1m%C4%B1-ve-redux-thunk-d46445f7b9c6)
+- [Click](https://codesandbox.io/s/cocky-wood-nkx2e?from-embed) to view on CodeSandbox.
